@@ -1,3 +1,5 @@
+<img src="gig-cymru-nhs-wales.jpg" alt="GIG Cymru - NHS Wales">
+
 # GIG Cymru - NHS Wales
 
 Gwefan: https://www.gig.cymru/
